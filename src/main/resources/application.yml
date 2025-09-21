@@ -2,4 +2,4 @@ spring:
   datasource:
     url: //database url
     username: //database username
-    password: //database password
+    password:
